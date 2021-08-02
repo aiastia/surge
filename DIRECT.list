@@ -1,26 +1,6 @@
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
-PROCESS-NAME,DownloadService
-PROCESS-NAME,Weiyun
-DOMAIN-SUFFIX,smtp
-DOMAIN-KEYWORD,aria2
+
 DOMAIN-SUFFIX,local
-DOMAIN,app.adjust.com
 DOMAIN-SUFFIX,googletraveladservices.com
-DOMAIN,dl.google.com
-DOMAIN,mtalk.google.com
-DOMAIN,livew.l.qq.com
-DOMAIN,vd.l.qq.com
-DOMAIN,analytics.strava.com
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,akadns.net
@@ -51,7 +31,6 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -60,7 +39,6 @@ DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
-DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
@@ -108,7 +86,6 @@ DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
@@ -163,7 +140,6 @@ DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,netspeedtestmaster.com
-DOMAIN,speedtest.macpaw.com
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,chdbits.co
@@ -353,4 +329,3 @@ DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN,download.jetbrains.com
