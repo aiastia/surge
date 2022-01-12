@@ -45,17 +45,18 @@ hide-udp = false
 
 [Proxy]
 $proxies
-🚀直接连接 = direct
+直连 = direct
 
 [Proxy Group]
-Proxy = select, auto, fallback, $proxy_group, 🚀直接连接
-auto = url-test, $proxy_group, url=http://www.gstatic.com/generate_204, interval=43200
-fallback = fallback, $proxy_group, url=http://www.gstatic.com/generate_204, interval=43200
+Proxy = select, $proxy_group, 🚀直接连接, auto, fallback
 🍎苹果服务 = select,  Proxy, 🚀直接连接
 ✈️Telegram = select,  Proxy,  $proxy_group
 🎬Youtube = select, Proxy, $proxy_group
 🎬Netflix = select, Proxy, $proxy_group
 🎬国外媒体 = select, Proxy, $proxy_group
+🚀直接连接 = select, 直连, $proxy_group
+auto = url-test, $proxy_group, url=http://www.gstatic.com/generate_204, interval=43200
+fallback = fallback, $proxy_group, url=http://www.gstatic.com/generate_204, interval=43200
 [Rule]
 # 自定义规则
 ## 您可以在此处插入自定义规则
