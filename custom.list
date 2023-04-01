@@ -1,1 +1,9 @@
 IP-CIDR,159.75.94.1/24
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN,officecdn-microsoft-com.akamaized.net
