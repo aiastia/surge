@@ -8,4 +8,4 @@
 ^http://surgetest\.com/base64 data="dGVzdA==" data-type=base64
 
 [MITM]
-hostname = %APPEND% *.surgetest.com
+hostname = %APPEND% surgetest.com
