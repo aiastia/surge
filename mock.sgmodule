@@ -5,5 +5,5 @@
 [Map Local]
 ^http://surgetest\.com/json data-type=text data="{}" status-code=500
 ^http://surgetest\.com/gif data-type=tiny-gif status-code=200
-^http://surgetest\.com/file data-type=file data="data/map-local.json" header="a:b|foo:bar"
+#^http://surgetest\.com/file data-type=file data="data/map-local.json" header="a:b|foo:bar"
 ^http://surgetest\.com/base64 data="dGVzdA==" data-type=base64
