@@ -3,7 +3,7 @@
 #!system=ios
 
 [Map Local]
-^http://surgetest\.com/json data-type=text data="{}" status-code=500
+^http://surgetest\.com/json data-type=text data="{}" status-code=200
 ^http://surgetest\.com/gif data-type=tiny-gif status-code=200
 ^http://surgetest\.com/base64 data="dGVzdA==" data-type=base64
 
